@@ -9,8 +9,12 @@ Centralny Ośrodek Informatyki (Center for Information Technology)
 - [OpenSourceDay 2016 presentation][2] by Krzysztof Suszyński
 
 DanePubliczne.gov.pl
-- https://danepubliczne.gov.pl/ (owner: https://mc.gov.pl/)
+- https://danepubliczne.gov.pl/ (owner: https://mc.gov.pl/, Departament Spoleczenstwa Informacyjnego)
 - https://github.com/DanePubliczneGovPl
+
+Ministerstwo Cyfryzacji
+- https://mc.gov.pl/
+- https://github.com/Ministerstwo-Cyfryzacji
 
 [1]: http://www.coi.gov.pl/artykul/jak-coi-wspiera-ruch-otwartego-oprogramowania.html
 [2]: http://cardil.github.io/osd2016-opensource/
