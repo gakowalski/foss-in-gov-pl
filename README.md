@@ -19,13 +19,13 @@
 - [OpenSourceDay 2016 presentation][2] by Krzysztof Suszyński.
 
 ## CERT Polska (Computer Emergency Response Team)
-- https://www.cert.pl (owner: https://www.nask.pl/)
+- https://www.cert.pl (owner: [NASK][#nask-naukowa-i-akademicka-siec-komputerowa])
 - https://github.com/CERT-Polska
 - Repos with computer security tools.
 - Licenses used: GPL 2.0, GPL 3.0.
 
 ## DanePubliczne.gov.pl
-- https://danepubliczne.gov.pl/ (owner: https://mc.gov.pl/, Departament Społeczeństwa Informacyjnego)
+- https://danepubliczne.gov.pl/ (owner: [Ministerstwo Cyfryzacji][#ministerstwo-cyfryzacji], Departament Społeczeństwa Informacyjnego)
 - https://github.com/DanePubliczneGovPl
 - A lot of forks but they have some their own repos.
 - Licenses used in original (non-forked) repos: GNU Affero General Public License Version 3.
@@ -50,12 +50,19 @@
 - https://mc.gov.pl/
 - https://github.com/Ministerstwo-Cyfryzacji
 - No license files in the repos.
+- See also: [DanePubliczne.gov.pl][#danepublicznegovpl]
 
 ## Muzeum Historii Polski w Warszawie (Polish History Museum)
 - http://muzhp.pl
 - https://github.com/PolishHistoryMuseum
 - License used: GPL 3.0 (there is no license file but [comments in the source code][7] indicate so).
 - Not updated since 2010.
+
+## NASK (Naukowa i Akademicka Sieć Komputerowa)
+- http://www.nask.pl
+- https://github.com/NASK-Instytut-Badawczy
+- Single repo, no license info.
+- See also: [CERT Polska][#cert-polska-computer-emergency-response-team].
 
 ## Polona
 - https://polona.pl/ (owner: http://bn.org.pl/, Biblioteka Narodowa / National Library of Poland)
