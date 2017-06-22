@@ -18,11 +18,24 @@
 - [Jak COI wspiera ruch otwartego oprogramowania][1] by Krzysztof Suszyński.
 - [OpenSourceDay 2016 presentation][2] by Krzysztof Suszyński.
 
+## CERT Polska (Computer Emergency Response Team)
+- https://www.cert.pl (owner: https://www.nask.pl/)
+- https://github.com/CERT-Polska
+- Licenses used: GPL 2.0, GPL 3.0.
+
 ## DanePubliczne.gov.pl
-- https://danepubliczne.gov.pl/ (owner: https://mc.gov.pl/, Departament Spoleczenstwa Informacyjnego)
+- https://danepubliczne.gov.pl/ (owner: https://mc.gov.pl/, Departament Społeczeństwa Informacyjnego)
 - https://github.com/DanePubliczneGovPl
 - A lot of forks but they have some their own repos.
 - Licenses used in original (non-forked) repos: GNU Affero General Public License Version 3.
+
+## Miasto Gdańsk (City of Gdańsk)
+- http://www.gdansk.pl/
+- No single organisation account/repo, each project has its own:
+  - [Bank Nasadzeń Drzew][5]: https://github.com/kodujdlapolski/BANDgdansk/
+  - Wyrzuć.to: https://github.com/wyrzucto
+- Development of projects seems to be suspended.
+- No license info.
 
 ## Ministerstwo Cyfryzacji
 - https://mc.gov.pl/
@@ -37,9 +50,10 @@
 ## Przedsiębiorstwo Państwowe "Porty Lotnicze" (Polish Airports State Enterprise)
 - https://www.polish-airports.com
 - https://github.com/PolishAirports
-- Licsnses used: Apache License 2.0.
+- Licenses used: Apache License 2.0.
 
 [1]: http://www.coi.gov.pl/artykul/jak-coi-wspiera-ruch-otwartego-oprogramowania.html
 [2]: http://cardil.github.io/osd2016-opensource/
 [3]: https://cis-ncbj.github.io/
 [4]: https://www.csioz.gov.pl/zamowienia-publiczne/szczegoly/zakup-oprogramowania-bitbucket-server-licencja-komercyjna-na-100-uzytkownikow/
+[5]: https://bandgdansk.com/
