@@ -76,7 +76,7 @@
 - https://gitlab.parp.gov.pl/explore
 - No repos at this time, maybe they will publish something in the future.
 
-## Polska Organizacja Turytyczna (Polish Tourist Organisation)
+## Polska Organizacja Turystyczna (Polish Tourist Organisation)
 - https://www.pot.gov.pl/
 - https://github.com/pot-gov-pl
 - No license files in the repos.
