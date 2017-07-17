@@ -28,7 +28,7 @@
 - https://danepubliczne.gov.pl/ (owner: [Ministerstwo Cyfryzacji](#ministerstwo-cyfryzacji), Departament Społeczeństwa Informacyjnego)
 - https://github.com/DanePubliczneGovPl
 - A lot of forks but they have some their own repos.
-- Licenses used in original (non-forked) repos: GNU Affero General Public License Version 3.
+- Licenses used in original (non-forked) repos: GNU Affero GPL 3.0.
 
 ## Instytut Badań Edukacyjnych (The Polish Educational Research Institute)
 - http://www.ibe.edu.pl
@@ -75,6 +75,11 @@
 - http://www.parp.gov.pl/
 - https://gitlab.parp.gov.pl/explore
 - No repos at this time, maybe they will publish something in the future.
+
+## Polska Organizacja Turytyczna (Polish Tourist Organisation)
+- https://www.pot.gov.pl/
+- https://github.com/pot-gov-pl
+- No license files in the repos.
 
 ## Przedsiębiorstwo Państwowe "Porty Lotnicze" (Polish Airports State Enterprise)
 - https://www.polish-airports.com
