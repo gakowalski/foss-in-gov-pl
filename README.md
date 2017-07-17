@@ -79,7 +79,7 @@
 ## Polska Organizacja Turystyczna (Polish Tourist Organisation)
 - https://www.pot.gov.pl/
 - https://github.com/pot-gov-pl
-- No license files in the repos.
+- Licenses: Apache License 2.0, EUPL 1.2.
 
 ## Przedsiębiorstwo Państwowe "Porty Lotnicze" (Polish Airports State Enterprise)
 - https://www.polish-airports.com
