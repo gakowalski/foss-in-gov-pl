@@ -30,6 +30,12 @@
 - A lot of forks but they have some their own repos.
 - Licenses used in original (non-forked) repos: GNU Affero GPL 3.0.
 
+## E-Sąd
+- https://www.e-sad.gov.pl/ (caution: webpage is probably [accessible only on certain days][8])
+- https://github.com/e-sad
+- Single repo with XSD documentation.
+- No license files.
+
 ## Instytut Badań Edukacyjnych (The Polish Educational Research Institute)
 - http://www.ibe.edu.pl
 - https://github.com/instytut-badan-edukacyjnych
@@ -93,3 +99,4 @@
 [5]: https://bandgdansk.com/
 [6]: https://github.com/instytut-badan-edukacyjnych/platforma-testow/raw/master/Docs/Manual%20(pl).pdf
 [7]: https://github.com/PolishHistoryMuseum/PH100/blob/master/src/mhp_ph/mainForm.java
+[8]: http://infostrow.pl/wiadomosci/internetowy-sad-zapchany-pozwami/cid,76286,a
