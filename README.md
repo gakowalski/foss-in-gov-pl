@@ -18,6 +18,11 @@
 - [Jak COI wspiera ruch otwartego oprogramowania][1] by Krzysztof Suszyński.
 - [OpenSourceDay 2016 presentation][2] by Krzysztof Suszyński.
 
+## Centrum Badań Kosmicznych PAN (Space Research Centre of the Polish Academy of Sciences)
+- http://www.cbk.waw.pl/
+- https://github.com/CentrumBadanKosmicznych
+- No license files in the repos.
+
 ## CERT Polska (Computer Emergency Response Team)
 - https://www.cert.pl (owner: [NASK](#nask-naukowa-i-akademicka-siec-komputerowa))
 - https://github.com/CERT-Polska
