@@ -35,12 +35,6 @@
 - A lot of forks but they have some their own repos.
 - Licenses used in original (non-forked) repos: GNU Affero GPL 3.0.
 
-## E-Sąd
-- https://www.e-sad.gov.pl/ (caution: webpage is probably [accessible only on certain days][8])
-- https://github.com/e-sad
-- Single repo with XSD documentation.
-- No license files.
-
 ## Instytut Badań Edukacyjnych (The Polish Educational Research Institute)
 - http://www.ibe.edu.pl
 - https://github.com/instytut-badan-edukacyjnych
