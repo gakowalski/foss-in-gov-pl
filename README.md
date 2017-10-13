@@ -77,11 +77,6 @@
 - License: MIT.
 - Last updated in 2015.
 
-## Polska Agencja Rozwoju Przedsiębiorczości
-- http://www.parp.gov.pl/
-- https://gitlab.parp.gov.pl/explore
-- No repos at this time, maybe they will publish something in the future.
-
 ## Polska Organizacja Turystyczna (Polish Tourist Organisation)
 - https://www.pot.gov.pl/
 - https://github.com/pot-gov-pl
