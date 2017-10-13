@@ -65,8 +65,9 @@
 
 ## NASK (Naukowa i Akademicka Sieć Komputerowa)
 - http://www.nask.pl
+- https://nask-polska.github.io
+- https://github.com/NASK-Polska
 - https://github.com/NASK-Instytut-Badawczy
-- Single repo, no license info.
 - See also: [CERT Polska](#cert-polska-computer-emergency-response-team).
 
 ## Polona
