@@ -35,6 +35,11 @@
 - A lot of forks but they have some their own repos.
 - Licenses used in original (non-forked) repos: GNU Affero GPL 3.0.
 
+## Geoportal
+- Owner: Główny Urząd Geodezji i Kartografii / Główny Geodeta Kraju
+- https://github.com/GeoportalPL
+- Licenses used: MIT.
+
 ## Instytut Badań Edukacyjnych (The Polish Educational Research Institute)
 - http://www.ibe.edu.pl
 - https://github.com/instytut-badan-edukacyjnych
