@@ -40,6 +40,12 @@
 - https://github.com/GeoportalPL
 - Licenses used: MIT.
 
+## Główny Urząd Statystyczny (Statistics Poland)
+- https://stat.gov.pl/
+- https://github.com/Statistics-Poland
+- https://github.com/statisticspoland (different repo)
+- All forks and derivative projects.
+
 ## Instytut Badań Edukacyjnych (The Polish Educational Research Institute)
 - http://www.ibe.edu.pl
 - https://github.com/instytut-badan-edukacyjnych
@@ -47,6 +53,11 @@
   - Mobile app "[Platforma testów IBE][6]": https://github.com/instytut-badan-edukacyjnych/platforma-testow
 - Licenses used: GPL 3.0.
 - Not updated since 2015.
+
+## Instytut Podstaw Informatyki Polskiej Akademii Nauk (Institute of Computer Science Polish Academy of Sciences)
+- https://ipipan.waw.pl/
+- http://git.nlp.ipipan.waw.pl/explore/projects
+- Licenses used: many (CC BY-NC-SA 4.0, MIT, GPL v3 and others)
 
 ## Miasto Gdańsk (City of Gdańsk)
 - http://www.gdansk.pl/
