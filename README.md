@@ -42,8 +42,9 @@
 
 ## Główny Urząd Statystyczny (Statistics Poland)
 - https://stat.gov.pl/
-- https://github.com/Statistics-Poland
-- https://github.com/statisticspoland (different repo)
+- https://github.com/Glowny-Urzad-Statystyczny
+- https://github.com/Statistics-Poland (another repos)
+- https://github.com/statisticspoland (yet another repos)
 - All forks and derivative projects.
 
 ## Instytut Badań Edukacyjnych (The Polish Educational Research Institute)
