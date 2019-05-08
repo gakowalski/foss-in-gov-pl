@@ -104,6 +104,11 @@
 - https://github.com/PolishAirports
 - Licenses used: Apache License 2.0.
 
+## Urząd Ochrony Danych Osobowych (Personal Data Protection Office)
+- https://uodo.gov.pl/
+- https://github.com/uodogovpl
+- Licenses used: EUPL 1.2
+
 [1]: http://www.coi.gov.pl/artykul/jak-coi-wspiera-ruch-otwartego-oprogramowania.html
 [2]: http://cardil.github.io/osd2016-opensource/
 [3]: https://cis-ncbj.github.io/
