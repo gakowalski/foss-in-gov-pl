@@ -60,6 +60,10 @@
 - http://git.nlp.ipipan.waw.pl/explore/projects
 - Licenses used: many (CC BY-NC-SA 4.0, MIT, GPL v3 and others)
 
+## Kancelaria Prezesa Rady Ministrów
+- STOP COVID - ProteGO Safe: https://github.com/ProteGO-Safe/
+- Licenses: GPL 3.0
+
 ## Miasto Gdańsk (City of Gdańsk)
 - http://www.gdansk.pl/
 - No single organisation account/repo, each project has its own:
