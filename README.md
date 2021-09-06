@@ -64,6 +64,9 @@
 - STOP COVID - ProteGO Safe: https://github.com/ProteGO-Safe/
 - Licenses: GPL 3.0
 
+- Zespół GovTech Polska: fakehunter.pap.pl
+- Licenses: MIT
+
 ## Miasto Gdańsk (City of Gdańsk)
 - http://www.gdansk.pl/
 - No single organisation account/repo, each project has its own:
