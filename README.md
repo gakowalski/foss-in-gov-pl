@@ -47,6 +47,14 @@
 - https://github.com/statisticspoland (yet another repos)
 - All forks and derivative projects.
 
+## GovTech Polska - międzyresortowy zespół działający w Kancelarii Premiera
+- https://www.gov.pl/web/govtech
+- https://github.com/govtech-polska
+- Notable repos:
+  - FakeHunter - browser extension for reporting questionable content published on the Internet regarding the SARS-CoV-2 virus
+  - Fake News Fighter - website with verified news
+- Licenses used: MIT, Dofacts (based on MIT)
+
 ## Instytut Badań Edukacyjnych (The Polish Educational Research Institute)
 - http://www.ibe.edu.pl
 - https://github.com/instytut-badan-edukacyjnych
