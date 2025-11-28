@@ -40,6 +40,11 @@
 - https://github.com/GeoportalPL
 - Licenses used: MIT.
 
+## Główny Urzad Miar (Central Office of Measures)
+- https://e-czas.gum.gov.pl/
+- https://github.com/e-CzasPL
+- MIT License
+
 ## Główny Urząd Statystyczny (Statistics Poland)
 - https://stat.gov.pl/
 - https://github.com/Glowny-Urzad-Statystyczny
